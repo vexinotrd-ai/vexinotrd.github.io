@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Joining Telegram Channel</title>
+<meta http-equiv="refresh" content="0; url=https://t.me/+QqeaYPPmnz0yMTZk" />
+<script type="text/javascript">
+    window.onload = function() {
+        // This is a backup for older browsers or if the meta tag is ignored.
+        // It's a good practice to have both.
+        window.location.href = "https://t.me/+QqeaYPPmnz0yMTZk";
+    }
+</script>
+</head>
+<body>
+<p>If you are not redirected automatically, please <a href="YOUR_TELEGRAM_LINK_HERE">click here to join our Telegram channel</a>.</p>
+</body>
+</html>
