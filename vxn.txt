@@ -12,6 +12,7 @@
 </script>
 </head>
 <body>
-<p>If you are not redirected automatically, please <a href="YOUR_TELEGRAM_LINK_HERE">click here to join our Telegram channel</a>.</p>
+<p>If you are not redirected automatically, please <a href="https://t.me/+QqeaYPPmnz0yMTZk">click here to join our Telegram channel</a>.</p>
 </body>
+
 </html>
